@@ -1,2 +1,10 @@
 @import "tailwindcss";
 
+body {
+  @apply bg-slate-50 text-slate-800;
+}
+
+.logo-small {
+  width: 22px;
+  height: 22px;
+}
