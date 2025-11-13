@@ -7,6 +7,7 @@ Link - https://github.com/sanskaryo/150reactproj
 ## section - ca
 ## roll no - 48
 
+![Project Screenshot](https://github.com/sanskaryo/150reactproj/blob/main/image.png?raw=true)
 
 
 So we are a given to build a aimple webpage using react , it is a e commerce webpage with products , on top a navbar a working search functionality
@@ -31,6 +32,10 @@ Products ko grid me arrange kiya using tailwind classes .
 
 At last App.jsx me sabko import karke attach kar diya , jaise Navbar upar and fir heading "Store" aur fir product grid .
 Search working h kyoki jo hum input me type karte h wo state update hoti h aur list filter ho jati h.
+
+Faced few errors in deployment 
+
+
 
 
 
